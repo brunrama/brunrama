@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @brunrama
-- 👀 I’m interested in Financial Models based in Python and Generative AI tools for work automatization.
-- 💞️ I’m looking to collaborate on Financial models (discuss and contribute to get better insights for trade performance) and learn more about AI.
+- 👀 I’m interested in Models based in Python and Generative AI tools for work automatization.
+- 💞️ I’m looking to collaborate on Financial models (discuss and contribute to get better insights) and learn more about AI.
 
 
 <!---
