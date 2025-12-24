@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @brunrama
-- 👀 I’m interested in Models based in Python and Generative AI tools for work automatization.
-- 💞️ I’m looking to discuss and contribute to get better insights and learn more about AI.
+- 👀 I’m interested in Generative AI tools for workflows based in Python.
+- 💞️ I’m also looking to discuss and contribute to get better insights for projects in Python and to learn more about AI.
 
 
 <!---
